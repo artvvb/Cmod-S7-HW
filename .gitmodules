@@ -1,3 +1,3 @@
 [submodule "hw/scripts"]
-	path = hw/scripts
+	path = scripts
 	url = https://github.com/Digilent/digilent-vivado-scripts
