@@ -6,8 +6,8 @@ For additional documentation on individual demos, and for instructions on how to
 
 | Name and Wiki Link | Description |
 |--------------------|-------------|
-| [Cmod S7-25 Out-of-Box Demo](https://reference.digilentinc.com/reference/programmable-logic/cmod-s7/oob-demo) | A simple hardware-only design using the LEDs, buttons, and USBUART Bridge |
-| [Cmod S7-25 Microblaze XADC Demo](https://reference.digilentinc.com/reference/programmable-logic/cmod-s7/xadc-demo) | Uses a Microblaze soft core processor and analog input pins to measure and print voltages |
+| [Cmod S7-25 Out-of-Box Demo](https://reference.digilentinc.com/reference/programmable-logic/cmod-s7/oob-demo/staging) | A simple hardware-only design using the LEDs, buttons, and USBUART Bridge |
+| [Cmod S7-25 Microblaze XADC Demo](https://reference.digilentinc.com/reference/programmable-logic/cmod-s7/xadc-demo/staging) | Uses a Microblaze soft core processor and analog input pins to measure and print voltages |
 
 For more information about the Cmod S7, visit its [Resource Center](https://reference.digilentinc.com/reference/programmable-logic/cmod-s7/start) on the Digilent Wiki.
 
